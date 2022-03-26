@@ -1,0 +1,43 @@
+PS D:\Dilan\sampleProjects\LogDetailsExtractor\target> java -jar .\LogDetailsExtractor-1.0-SNAPSHOT.jar
+
+Please enter the log file path:
+D:\Dilan\sampleProjects\programming-task-example-data.log
+
+Number of unique IPs: 11
+************************Most active IPs*******************************
+50.112.00.11
+168.41.191.40
+************************Second most active IPs************************
+177.71.128.21
+72.44.32.10
+************************Third most active IPs************************
+168.41.191.9
+
+
+************************Most used URLs************************
+/docs/manage-websites/
+************************Second most used URLs************************
+/temp-redirect
+/docs/manage-users/
+/download/counter/
+/faq/how-to/
+************************Third most used URLs************************
+/blog/2018/08/survey-your-opinion-matters/
+/newsletter/
+/this/page/does/not/exist/
+http://example.net/blog/category/meta/
+/asset.css
+/asset.js
+/to-an-error
+/faq/how-to-install/
+/blog/category/community/
+/asasdasset.css
+/hosting/
+/intranet-analytics/
+/docs/
+/faq/
+/translations/
+/
+/moved-permanently
+http://example.net/faq/
+PS D:\Dilan\sampleProjects\LogDetailsExtractor\target> 
